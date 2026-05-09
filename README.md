@@ -63,7 +63,6 @@ Student at UNIFACISA in the Information Systems course.
   <img src="https://cdn.simpleicons.org/git/white" height="40" alt="git logo" />
   <img width="12" />
 
-  <img src="https://cdn.simpleicons.org/firebirdsql/F26925" height="40" alt="firebird logo" />
 </div>
 
 ---
