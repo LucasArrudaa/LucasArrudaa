@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">Full Stack Developer focused on Web, Backend and Databases<br> Working with JavaScript, HTML, CSS, Java, Spring Boot, Python and SQL<br>Goals: Create scalable and efficient applications<br>Fun fact: I enjoy turning complex problems into simple solutions</p>
+<p align="left">
+Student at UNIFACISA in the Information Systems course. Full Stack Developer focused on Web, Backend and Databases<br> Working with JavaScript, HTML, CSS, Java, Spring Boot, Python and SQL<br>Goals: Create scalable and efficient applications<br>Fun fact: I enjoy turning complex problems into simple solutions </p>
 
 ###
 
@@ -50,3 +51,8 @@
 Web systems with React and Spring Boot
 REST APIs and database integrations
 Full-stack projects focused on practical development</h2>
+
+## Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-arruda-04b78936b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devlucasarruda7@gmail.com)
+
