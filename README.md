@@ -1,8 +1,8 @@
-<h3 align="left">Hey, what's up?</h3>
+<h1 align="left">Hey, what's up?</h1>
 
 ###
 
-<h2 align="left">My name is Lucas Arruda and I'm a Full Stack Developer.</h2>
+<h1 align="left">My name is Lucas Arruda and I'm a Full Stack Developer.Student at UNIFACISA in the Information Systems course</h1>
 
 ###
 
@@ -11,7 +11,7 @@
 ###
 
 <h2 align="left">
-Student at UNIFACISA in the Information Systems course. Full Stack Developer focused on Web, Backend and Databases<br> Working with JavaScript, HTML, CSS, Java, Spring Boot, Python and SQL<br>Goals: Create scalable and efficient applications<br>Fun fact: I enjoy turning complex problems into simple solutions </h2>
+Full Stack Developer focused on Web, Backend and Databases<br> Working with JavaScript, HTML, CSS, Java, Spring Boot, Python and SQL<br>Goals: Create scalable and efficient applications<br>Fun fact: I enjoy turning complex problems into simple solutions </h2>
 
 ###
 
