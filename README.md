@@ -10,12 +10,12 @@
 
 ###
 
-<h2 align="left">
-Full Stack Developer focused on Web, Backend and Databases<br> Working with JavaScript, HTML, CSS, Java, Spring Boot, Python and SQL<br>Goals: Create scalable and efficient applications<br>Fun fact: I enjoy turning complex problems into simple solutions </h2>
+<h1 align="left">
+Full Stack Developer focused on Web, Backend and Databases<br> Working with JavaScript, HTML, CSS, Java, Spring Boot, Python and SQL<br>Goals: Create scalable and efficient applications<br>Fun fact: I enjoy turning complex problems into simple solutions </h1>
 
 ###
 
-<h3 align="left">I code with</h3>
+<h2 align="left">I code with</h2>
 
 ###
 
@@ -47,10 +47,10 @@ Full Stack Developer focused on Web, Backend and Databases<br> Working with Java
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
-<h2> What I'm developing:
+<h1> What I'm developing:
 Web systems with React and Spring Boot
 REST APIs and database integrations
-Full-stack projects focused on practical development</h2>
+Full-stack projects focused on practical development</h1>
 
 ## Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-arruda-04b78936b/)
